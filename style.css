@@ -1,0 +1,11 @@
+*{background-color: aqua;}
+.font-size-large{font-size: 2.5cm;}
+.font-size-mid{font-size: 1.5cm;}
+.font-size-small{font-size: 0.5cm;}
+.font-color-purple{color: purple;}
+#strong{height: 5cm;
+        width: 6cm;}
+.oblique{font-style: oblique;}
+#welcome{text-align: center;}
+#pun{color: aquamarine;}
+body{flex-wrap: wrap;}
